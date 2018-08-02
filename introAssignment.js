@@ -12,3 +12,4 @@ function actionWhenFound(index) {
 }
 
 findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound);
+console.log("testing github");
